@@ -34,7 +34,7 @@ module.exports = function(grunt) {
     sass: {
       build: {
         files: {
-          'src/css/<%= pkg.name %>.css': ['src/scss/<%= pkg.name %>.scss'],
+          'src/css/<%= pkg.name %>.css': ['src/scss/*.scss'],
         }
       }
     },

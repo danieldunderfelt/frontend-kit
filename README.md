@@ -2,7 +2,7 @@ Frontend Kit
 ============
 A template for quickly getting started with front-end projects.
 
-Clone this repo, make adjustments if necessary, and code. Here's some things you should take a look at before starting:
+Clone this repo, make adjustments if necessary, and code. Remove example files. Here's some things you should take a look at before starting:
 
 
 package.json
