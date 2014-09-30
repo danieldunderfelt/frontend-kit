@@ -1,0 +1,27 @@
+{
+  "name": "frontend-scaffold",
+  "version": "0.0.0",
+  "description": "A template for quickly getting started with the front end. ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:mrthunderfield/frontend-kit.git"
+  },
+  "keywords": [
+    "frontend",
+    "front-end",
+    "template",
+    "grunt",
+    "gulp",
+    "build"
+  ],
+  "author": "Daniel Dunderfelt",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mrthunderfield/frontend-kit/issues"
+  },
+  "homepage": "https://github.com/mrthunderfield/frontend-kit"
+}
